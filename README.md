@@ -15,3 +15,17 @@
 ---
 
 ## Features
+
+- Crousel
+- Popular Page
+- Top Rated Page
+- Upcomming Page
+- Movie info Page
+
+## API Used
+
+[TMDB API](https://www.themoviedb.org/documentation/api)
+
+---
+
+Made by [Susaksham Jain✨](https://twitter.com/Susaksham08)
